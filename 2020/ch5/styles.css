@@ -55,3 +55,16 @@ h1 {
 	font-family: "Arial Black", Arial, sans-serif;
 	margin-bottom: 15px;
 }
+
+h2 {
+	font-size: 2.2em;
+	color: #AFC3D6;
+	margin-bottom: 5px;
+}
+
+.main h2 {
+	color: #E8A064;
+	border-bottom: 2px solid white;
+	background: url(images/bullet_flower.png) no-repeat;
+	padding: 0 0 2px 80px;
+}

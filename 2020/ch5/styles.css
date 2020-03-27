@@ -41,3 +41,17 @@ table {
 	background: #E9F5FE;
 }
 
+body {
+	color: #B1967C;
+	font-family: "Palatino Linotype", Baskerville, serif;
+	padding-top: 115px;
+	background: #CDE6FF url(images/bg_body.png) repeat-x;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: "Arial Black", Arial, sans-serif;
+	margin-bottom: 15px;
+}

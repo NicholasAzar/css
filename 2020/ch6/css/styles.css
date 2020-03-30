@@ -28,3 +28,8 @@ table {
 	border-spacing: 0;
 } 
 /* end reset browser styles */
+
+html {
+	font-family: PTSans, Arial, sans-serif;
+	font-size: 62.5%;
+}

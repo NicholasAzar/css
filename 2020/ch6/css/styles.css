@@ -33,3 +33,39 @@ html {
 	font-family: PTSans, Arial, sans-serif;
 	font-size: 62.5%;
 }
+
+.main h1 {
+	color: rgb(249,212,120);
+	font-family: "Arial Black", Arial, Helvetica, sans-serif;
+	font-size: 4em;
+	text-shadow: 4px 4px 6px rgba(0,0,0,.75);
+}
+
+.main h2 {
+	font: normal 3.5em "Slabo 27px", Garamond, Times, serif;
+	color: rgb(37,76,143);
+	border-bottom: 1px solid rgb(200,200,200);
+	margin-top: 25px;
+}
+
+.main h3 {
+	color: rgb(241,47,6);
+	font-size: 1.9em;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.main p {
+	font-size: 1.8em;
+	line-height: 1.5;
+	margin-left: 150px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+}
+
+.main p::first-line {
+	font-weight: bold;
+	color: rgb(153,153,153);
+}

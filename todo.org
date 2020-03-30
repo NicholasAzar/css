@@ -1,0 +1,19 @@
+#+TITLE: CSS: The Missing Manual
+** Part 1: CSS Basics
+* DONE Chapter 1 - HTML and CSS
+* DONE Chapter 2 - Creating Styles and Style Sheets
+* DONE Chapter 3 - Selectors: Identifying What to Style
+* DONE Chapter 4 - Saving Time with Style Inheritance
+* DONE Chapter 5 - Managing Multiple Styles: The Cascade
+** Part 2: Applied CSS
+* DONE Chapter 6 - Formatting Text
+* TODO Chapter 7 - Margins, Padding, and Borders
+* TODO Chapter 8 - Adding Graphics to Web Pages
+* TODO Chapter 9 - Sprucing Up Your Site's Navigation
+* TODO Chapter 10 - CSS Transforms, Transitions, and Animations
+* TODO Chapter 11 - Formatting Tables and Forms
+** Part 3: CSS Page Layout
+** Part 4: Advanced CSS
+** Part 5: Appendixes
+
+

@@ -28,3 +28,16 @@ table {
   border-spacing: 0;
 } 
 /* end reset browser styles */
+
+html {
+  background-color: rgb(253,248,171);
+}
+
+body {
+  background-color: rgb(255,255,255);
+  border: 3px solid rgb(75,75,75);
+  box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
+  max-width: 760px;
+  margin: 20px auto 0 auto;
+  padding: 15px;
+}

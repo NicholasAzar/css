@@ -41,3 +41,27 @@ body {
   margin: 20px auto 0 auto;
   padding: 15px;
 }
+
+h1 {
+  font-size: 2.75em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: 1px;
+  color: rgb(133,161,16);
+  text-transform: uppercase;
+  background-color: rgb(226,235,180);
+  padding: 5px 15px 2px 15px;
+  margin: 0 -15px 20px -15px;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
+  color: rgb(249,107,24);
+  border-top: 2px dotted rgb(141,165,22);
+  border-bottom: 2px dotted rgb(141,165,22);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 15px 0 5px 0;
+}

@@ -66,17 +66,30 @@ body {
   border-bottom: 1px dashed #999;
 }
 
+.mainNav a:hover {
+  font-weight: bold;
+  background-color: #B2F511;
+  background-position: 3px 50%;
+}
+
+.home .homeLink, .feature .featureLink, .expert .expertLink, .quiz .quizLink, .project .projectLink, .horoscope .horoscopeLink {
+  background-color: #fff;
+  background-position: 97% 100%;
+  padding-right: 15px;
+  padding-left: 30px;
+  font-weight: bold;
+}
 
 </style>
 </head>
-<body>
+<body class="feature">
   <ul class="mainNav">
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/features/">Features</a></li>
-    <li><a href="/experts/">Experts</a></li>
-    <li><a href="/quiz/">Quiz</a></li>
-    <li><a href="/projects/">Projects</a></li>
-    <li><a href="/horoscopes/">Horoscopes</a></li>
+    <li><a href="/index.html" class="homeLink">Home</a></li>
+    <li><a href="/features/" class="featureLink">Features</a></li>
+    <li><a href="/experts/" class="expertLink">Experts</a></li>
+    <li><a href="/quiz/" class="quizLink">Quiz</a></li>
+    <li><a href="/projects/" class="projectLink">Projects</a></li>
+    <li><a href="/horoscopes/" class="horoscopeLink">Horoscopes</a></li>
   </ul>
 </body>
 </html>

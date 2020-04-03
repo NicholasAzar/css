@@ -128,3 +128,12 @@ footer a {
 	color: white;	
 }
 /* add tutorial styles below here */
+
+.sidebar1 {
+  float: left;
+  width: 20%;
+}
+
+.main {
+  margin-left: 22%;
+}

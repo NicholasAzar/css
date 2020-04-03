@@ -9,7 +9,7 @@
 * DONE Chapter 6 - Formatting Text
 * DONE Chapter 7 - Margins, Padding, and Borders
 * DONE Chapter 8 - Adding Graphics to Web Pages
-* TODO Chapter 9 - Sprucing Up Your Site's Navigation
+* DONE Chapter 9 - Sprucing Up Your Site's Navigation
 * TODO Chapter 10 - CSS Transforms, Transitions, and Animations
 * TODO Chapter 11 - Formatting Tables and Forms
 ** Part 3: CSS Page Layout

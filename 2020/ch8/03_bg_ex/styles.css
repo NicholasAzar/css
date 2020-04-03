@@ -93,9 +93,25 @@ table {
 
 /* add your styles here */
 
+html {
+  height: 100%;
+  background-image: linear-gradient(to bottom, rgb(176, 194, 213), white 700px);
+}
 
+.wrapper {
+  background-color: #FFF;
+  background-image: url(images/bg_main.jpg);
+  background-position: left top;
+  background-repeat: no-repeat;
+}
 
+.banner {
+  margin-top: 40px;
+}
 
+.announcement {
+  margin-top: 115px;
+}
 
 
 

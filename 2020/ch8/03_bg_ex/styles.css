@@ -113,6 +113,13 @@ html {
   margin-top: 115px;
 }
 
+.main h2 {
+  background-image: url(images/underline.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  padding-bottom: 7px;
+}
+
 
 
 

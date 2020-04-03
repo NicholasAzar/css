@@ -135,5 +135,15 @@ footer a {
 }
 
 .main {
-  margin-left: 22%;
+  float: left;
+  width: 60%;
+}
+
+.sidebar2 {
+  float: right;
+  width: 20%;
+}
+
+footer {
+  clear: both;
 }

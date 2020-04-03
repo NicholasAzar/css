@@ -110,6 +110,10 @@ html {
 }
 
 .announcement {
+  background: url(images/scroll_top.jpg) no-repeat center top,
+              url(images/scroll_bottom.jpg) no-repeat center bottom,
+              url(images/scroll_middle.jpg) repeat-y center top;
+  padding: 70px 0 60px 0;
   margin-top: 115px;
 }
 
@@ -127,6 +131,8 @@ html {
   background-position: 0 4px;
   padding-left: 25px;
   margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 40px;
 }
 
 

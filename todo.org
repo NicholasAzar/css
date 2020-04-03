@@ -11,8 +11,14 @@
 * DONE Chapter 8 - Adding Graphics to Web Pages
 * DONE Chapter 9 - Sprucing Up Your Site's Navigation
 * DONE Chapter 10 - CSS Transforms, Transitions, and Animations
-* TODO Chapter 11 - Formatting Tables and Forms
+* DONE Chapter 11 - Formatting Tables and Forms
 ** Part 3: CSS Page Layout
+* TODO Chapter 12 - Introducing CSS Layout
+* TODO Chapter 13 - Building Float-Based Layouts
+* TODO Chapter 14 - Positioning Elements on a Web Page
+* TODO Chapter 15 - Responsive Web Design
+* TODO Chapter 16 - Using a CSS Grid System
+* TODO Chapter 17 - Modern Web Layout with Flexbox
 ** Part 4: Advanced CSS
 ** Part 5: Appendixes
 

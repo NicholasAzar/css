@@ -31,6 +31,29 @@
       margin-left: 10px;
     }
 
+    .resources a {
+      border-bottom: none;
+      padding-right: 22px;
+    }
+
+    .resources a[href*='://'] {
+      background: url(images/globe.png) no-repeat right top;
+    }
+    .resources a[href$='.pdf'] {
+      background: url(images/acrobat.png) no-repeat right top;
+    }
+    .resources a[href$='.zip'] {
+      background: url(images/zip.png) no-repeat right top;
+    }
+    .resources a[href$='.doc'] {
+      background: url(images/word.png) no-repeat right top;
+    }
+
+    .resources a:hover {
+      color: #000;
+      background-color: rgba(255,255,255,.8);
+    }
+
   </style>
 </head>
 

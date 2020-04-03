@@ -93,6 +93,24 @@ nav a:hover {
   transform: scale(1.5);
 }
 
+@keyframes logo {
+  from {
+    transform: rotate(0) scale(.5);
+    left: 120%;
+  }
+  50% {
+    transform: rotate(-720deg) scale(.5);
+    left: 0;
+  }
+  to {
+    transform: rotate(0) scale(1);
+  }
+}
+
+.logo {
+  animation: logo 3s;
+}
+
 
 
 

@@ -7,8 +7,8 @@
 * DONE Chapter 5 - Managing Multiple Styles: The Cascade
 ** Part 2: Applied CSS
 * DONE Chapter 6 - Formatting Text
-* TODO Chapter 7 - Margins, Padding, and Borders
-* TODO Chapter 8 - Adding Graphics to Web Pages
+* DONE Chapter 7 - Margins, Padding, and Borders
+* DONE Chapter 8 - Adding Graphics to Web Pages
 * TODO Chapter 9 - Sprucing Up Your Site's Navigation
 * TODO Chapter 10 - CSS Transforms, Transitions, and Animations
 * TODO Chapter 11 - Formatting Tables and Forms

@@ -12,6 +12,7 @@ if __name__ == '__main__':
     if args.chapter_num < 10: 
         chapter_num_str = '0' + chapter_num_str
 
+    # Note: This isn't checked in to the vcs. You'll need to download it from the source (https://github.com/sawmac/css_mm_4e) and place it.
     source_folder_path = os.path.dirname(os.path.abspath(__file__)) + '\\css_mm_4e\\css_mm_4e-master\\' + chapter_num_str
     dest_folder_path = os.path.dirname(os.path.abspath(__file__)) + '\\ch' + str(args.chapter_num)
 

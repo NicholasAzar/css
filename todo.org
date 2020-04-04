@@ -15,7 +15,7 @@
 ** Part 3: CSS Page Layout
 * DONE Chapter 12 - Introducing CSS Layout
 * DONE Chapter 13 - Building Float-Based Layouts
-* TODO Chapter 14 - Positioning Elements on a Web Page
+* DONE Chapter 14 - Positioning Elements on a Web Page
 * TODO Chapter 15 - Responsive Web Design
 * TODO Chapter 16 - Using a CSS Grid System
 * TODO Chapter 17 - Modern Web Layout with Flexbox

@@ -21,7 +21,4 @@
 * DONE Chapter 17 - Modern Web Layout with Flexbox
 ** Part 4: Advanced CSS
 * DONE Chapter 18 - Improving Your CSS Habits
-* TODO Chapter 19 - More Powerful Styling with Sass
-** Part 5: Appendixes
-
-
+* DONE Chapter 19 - More Powerful Styling with Sass

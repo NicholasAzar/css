@@ -1,0 +1,10 @@
+.nav, .boxes, .footer {
+  display: flex;
+  flex-flow: row wrap;
+}
+.nav {
+  justify-content: space-between;
+}
+.nav a {
+  width: 23%;
+}

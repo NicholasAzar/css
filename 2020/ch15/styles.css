@@ -202,3 +202,33 @@ img.right {
     border-right: none;
   }
 }
+
+@media (max-width: 480px) {
+  .columnWrapper, .main, .sidebar1, .sidebar2 {
+    float: none;
+    width: auto;
+  }
+  .main {
+    border: none;
+  }
+  .sidebar1, .sidebar2 {
+    border-top: 2px solid black;
+    margin-top: 25px;
+    padding-top: 10px;
+  }
+  header h1 {
+    font-size: 1.5em;
+  }
+  nav {
+    text-align: center;
+  }
+  nav li {
+    float: none;
+    display: inline-block;
+  }
+  nav a {
+    float: none;
+    display: inline-block;
+    border: none;
+  }
+}

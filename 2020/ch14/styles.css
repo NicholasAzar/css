@@ -113,8 +113,24 @@ footer .copyright {
 
 /* add tutorial styles here */
 
+header {
+  position: relative;
+  margin-top: 20px;
+  padding: 20px 0 0 10px;
+}
 
+header .badge {
+  position: absolute;
+  top: -20px;
+  left: -90px;
+  z-index: -1;
+}
 
+header nav {
+  position: absolute;
+  right: 0;
+  top: 45px;
+}
 
 
 

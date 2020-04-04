@@ -20,7 +20,7 @@
 * DONE Chapter 16 - Using a CSS Grid System
 * DONE Chapter 17 - Modern Web Layout with Flexbox
 ** Part 4: Advanced CSS
-* TODO Chapter 18 - Improving Your CSS Habits
+* DONE Chapter 18 - Improving Your CSS Habits
 * TODO Chapter 19 - More Powerful Styling with Sass
 ** Part 5: Appendixes
 

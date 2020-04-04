@@ -167,4 +167,20 @@ nav ul, header h1, footer p, .contentWrapper {
   width: 80%;
 }
 
+img {
+  max-width: 100%;
+}
 
+img.half {
+  max-width: 50%;
+}
+
+img.left {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+img.right {
+  float: right;
+  margin: 0 0 10px 10px;
+}

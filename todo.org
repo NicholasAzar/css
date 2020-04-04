@@ -18,8 +18,10 @@
 * DONE Chapter 14 - Positioning Elements on a Web Page
 * DONE Chapter 15 - Responsive Web Design
 * DONE Chapter 16 - Using a CSS Grid System
-* TODO Chapter 17 - Modern Web Layout with Flexbox
+* DONE Chapter 17 - Modern Web Layout with Flexbox
 ** Part 4: Advanced CSS
+* TODO Chapter 18 - Improving Your CSS Habits
+* TODO Chapter 19 - More Powerful Styling with Sass
 ** Part 5: Appendixes
 
 
